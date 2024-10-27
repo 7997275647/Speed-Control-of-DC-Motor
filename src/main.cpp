@@ -9,6 +9,8 @@ extern "C"{
 #define MOTOR_TERMINAL_A 10
 #define MOTOR_TERMINAL_B 11
 
+// thid kovkpl,l ,;,
+
 void setup() {
   // put your setup code here, to run once:
   pinMode(MOTOR_DIRECTION_CONTROLLSW,INPUT);
