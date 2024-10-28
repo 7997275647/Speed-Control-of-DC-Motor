@@ -80,6 +80,8 @@ The Percent Controlled Motor Speed (PCMS) software is designed to control motor 
      - PCMS shall set `Motor Logic B` to **Low** when the `Direction Control Switch` (SRS_002) is **active**.
 
 ---
+![Model Diagram](lib/Model.png)
+
 
 ## Conclusion
 
