@@ -87,5 +87,5 @@ The Percent Controlled Motor Speed (PCMS) software is designed to control motor 
 
 This document outlines the software requirements for the Percent Controlled Motor Speed (PCMS) system. The software handles input from raw percent values and direction control, processes the data, and controls motor logic and indicator lamps accordingly.
 
-For any questions or further information, please contact the author.
+For any questions or further information, please contact modugusandy@gmail.com.
 
